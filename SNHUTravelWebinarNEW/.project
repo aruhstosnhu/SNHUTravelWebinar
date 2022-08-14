@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Slide Show</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/resources/GrandCanyon.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/GrandCanyon.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/Lauterbrunnen.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/Lauterbrunnen.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/Marketing.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/Marketing.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/Paris_France.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/Paris_France.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/Provincetown_Cape_cod_Massachusetts.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/Provincetown_Cape_cod_Massachusetts.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/SNHUTitlePage.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/SNHUTitlePage.jpg</location>
+		</link>
+		<link>
+			<name>src/resources/Seattle_WA.jpg</name>
+			<type>1</type>
+			<location>E:/SNHU CLASSES/CS-499 - Computer Science Capstone/CS-250 Items/Development Assignments/Development Assignments/Module 5/Slide Show/src/resources/Seattle_WA.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
