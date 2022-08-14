@@ -1,6 +1,6 @@
 # SNHUTravelWebinar
 
-## Desription
+## Description
 
 This Java application creates a slideshow of popular destinations and vacation packages offered by the SNHU Travel Company.
 
